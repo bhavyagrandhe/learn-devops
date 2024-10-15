@@ -1,3 +1,3 @@
 # learn-devops
 
-shell scripting
+excited to explore this
